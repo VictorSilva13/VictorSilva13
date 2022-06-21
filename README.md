@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <a href="https://beacons.ai/victormontsilva">
+  <a href="https://github.com/VictorSilva13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsilva13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsilva13&layout=compact&langs_count=7&theme=dark"/>
     
@@ -22,10 +22,6 @@
 <br>
   
 <div align = "center">
-  <a href="https://instagram.com/victor_augusto.13" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-191970?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
   <a href = "mailto:augusto13victor@outlook.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -33,4 +29,9 @@
   <a href="https://www.linkedin.com/in/victor-augusto-monteiro-e-silva-99a6011b8/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  
+  <a href="https://instagram.com/victor_augusto.13" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-191970?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
 </div>
